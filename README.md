@@ -7,7 +7,7 @@
 I am a systems engineering student at theUniversidad Nacional de Costa Rica, I am currently in my last year of my degree
 
 ### Skills
-![Android]
+![Android](https://img.shields.io/Android)
 -C/C++ 
 -Java 
 -JavaScript 
