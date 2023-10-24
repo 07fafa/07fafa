@@ -4,7 +4,7 @@
 **07fafa/07fafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am a systems engineering student at theUniversidad Nacional de Costa Rica, I am currently in my last year of my degree
+I am a systems engineering student at the Universidad Nacional de Costa Rica, I am currently in my last year of my degree
 
 ### Skills
 ![C](https://img.shields.io/badge/c-blue?style=for-the-badge&logo=c&labelColor=101010 )
