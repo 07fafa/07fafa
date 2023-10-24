@@ -2,15 +2,19 @@
 
 <!--
 **07fafa/07fafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+I am a systems engineering student at theUniversidad Nacional de Costa Rica, I am currently in my last year of my degree
+
+### Skills
+-C/C++ 
+-Java 
+-JavaScript 
+-Azure 
+-Web development 
+-Python 
+-GitHub
+-Advanced Networks(IPV6,OSPF,BGP)
+
+### Where to find me
+-[Likedin](https://www.linkedin.com/in/josafat-arguedas/)
