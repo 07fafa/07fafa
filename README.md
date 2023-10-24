@@ -23,5 +23,5 @@ I am a systems engineering student at theUniversidad Nacional de Costa Rica, I a
 
 
 ### Where to find me
-[![](https://img.shields.io/badge/Likedin-darkblue?style=for-the-badge&logo=linkedi)](https://www.linkedin.com/in/josafat-arguedas/)</br>
+[![](https://img.shields.io/badge/Likedin-darkblue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/josafat-arguedas/)</br>
 [![](https://img.shields.io/badge/josaarguedasguti@gmail.com-red?style=for-the-badge&logo=Gmail&labelColor=101010)](mailto:josaarguedasguti@gmail.com)
