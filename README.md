@@ -17,9 +17,10 @@ I am a systems engineering student at theUniversidad Nacional de Costa Rica, I a
 ![Html](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&labelColor=101010 )</br>
 ![Kotlin](https://img.shields.io/badge/Kotlin-9D76C1?style=for-the-badge&logo=kotlin&labelColor=101010 )
 ![Android](https://img.shields.io/badge/Android-3DOCB4?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)
-![AndroidStudio](https://img.shields.io/badge/androidstudio-3DOCB4?style=for-the-badge&logo=androidstudio&logoColor=white&labelColor=101010)
+![AndroidStudio](https://img.shields.io/badge/androidstudio-3DOCB4?style=for-the-badge&logo=androidstudio&logoColor=white&labelColor=101010)</br>
 ![MySQL](https://img.shields.io/badge/MySQL-3876BF?style=for-the-badge&logo=mysql&labelColor=101010 )
-![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&labelColor=101010)
+![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&labelColor=101010)</br>
+and a few more...
 
 
 ### Where to find me
