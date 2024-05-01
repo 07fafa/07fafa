@@ -4,7 +4,7 @@
 **07fafa/07fafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am a systems engineering student at the Universidad Nacional de Costa Rica, I am currently in my last year of my degree
+I am a student of Systems Engineering at the Universidad Nacional de Costa Rica, I am currently in my last semester of studies.
 
 ### Skills
 ![C](https://img.shields.io/badge/c-blue?style=for-the-badge&logo=c&labelColor=101010 )
@@ -20,7 +20,7 @@ I am a systems engineering student at the Universidad Nacional de Costa Rica, I 
 ![AndroidStudio](https://img.shields.io/badge/androidstudio-3DOCB4?style=for-the-badge&logo=androidstudio&logoColor=white&labelColor=101010)</br>
 ![MySQL](https://img.shields.io/badge/MySQL-3876BF?style=for-the-badge&logo=mysql&labelColor=101010 )
 ![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&labelColor=101010)</br>
-![Magento 2](https://img.shields.io/badge/magento%202-grey?style=for-the-badge&logo=magento&labelColor=101010)</br>
+![Magento 2](https://img.shields.io/badge/magento%202-orange?style=for-the-badge&logo=magento&labelColor=101010)</br>
 and a few more...
 
 
